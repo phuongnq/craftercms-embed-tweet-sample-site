@@ -44,12 +44,13 @@
         <toolbarItems1>
             formatselect | bold italic strikethrough forecolor backcolor | link | alignleft aligncenter alignright alignjustify | numlist bullist outdent indent | removeformat
         </toolbarItems1>
-        <toolbarItems2>embed_tweet</toolbarItems2>
+        <toolbarItems2>embed_tweet_dynamic | embed_tweet_static</toolbarItems2>
         <toolbarItems3></toolbarItems3>
         <toolbarItems4></toolbarItems4>
         
         <external_plugins>
-            <embed_tweet><![CDATA[/studio/api/2/plugin/file?siteId={site}&type=tinymce&name=embed_tweet&filename=plugin.min.js]]></embed_tweet>
+            <embed_tweet_dynamic><![CDATA[/studio/api/2/plugin/file?siteId={site}&type=tinymce&name=embed_tweet_dynamic&filename=plugin_dynamic.min.js]]></embed_tweet_dynamic>
+            <embed_tweet_static><![CDATA[/studio/api/2/plugin/file?siteId={site}&type=tinymce&name=embed_tweet_static&filename=plugin_static.min.js]]></embed_tweet_static>
         </external_plugins>
 
         <!--
