@@ -1,26 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-  ~ Copyright (C) 2007-2020 Crafter Software Corporation. All Rights Reserved.
-  ~
-  ~ This program is free software: you can redistribute it and/or modify
-  ~ it under the terms of the GNU General Public License version 3 as published by
-  ~ the Free Software Foundation.
-  ~
-  ~ This program is distributed in the hope that it will be useful,
-  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
-  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-  ~ GNU General Public License for more details.
-  ~
-  ~ You should have received a copy of the GNU General Public License
-  ~ along with this program.  If not, see <http://www.gnu.org/licenses/>.
-  -->
-
 <page>
-	<content-type>/page/article</content-type>	<display-template>/templates/web/pages/article.ftl</display-template>
+	<content-type>/page/article</content-type>
+	<display-template>/templates/web/pages/article.ftl</display-template>
+	<no-template-required/>
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>07fc</objectGroupId>
 	<objectId>07fc5ac7-05ea-b038-6455-26f895ba8822</objectId>
-	<sections_o>	<item>	<section_html>&lt;p&gt;Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean rhoncus, nulla ut mattis tempor, lorem arcu malesuada purus, sit amet pretium diam ligula at ante. Suspendisse potenti. Aliquam erat volutpat. Donec finibus, lectus et scelerisque euismod, est orci fermentum risus, a ullamcorper nisi tellus pellentesque eros. Maecenas vitae dui fringilla, porttitor ipsum eget, blandit felis. Nunc a eleifend velit, posuere vulputate dolor. Nam semper porttitor laoreet. Nunc sodales eget nisl eget lobortis.&lt;/p&gt;
+	<sections_o item-list="true">	<item>	<section_html>&lt;blockquote class="twitter-tweet"&gt;
+&lt;p dir="ltr" lang="en"&gt;I find it weird that some people expect me to stop being bullish just because we dumped.&lt;br /&gt;&lt;br /&gt;I spent all of 2018/2019/2020 dealing out bullish ETH hopium and I'll be damned if I'll stop just because prices are back to what they were in April.&lt;/p&gt;
+&amp;mdash; Anthony Sassano &amp;Xi; 🦇🔊 (@sassal0x) &lt;a href="https://twitter.com/sassal0x/status/1406451039700541451?ref_src=twsrc%5Etfw"&gt;June 20, 2021&lt;/a&gt;&lt;/blockquote&gt;
+&lt;p&gt;
+&lt;script src="https://platform.twitter.com/widgets.js" async="" charset="utf-8"&gt;&lt;/script&gt;
+&lt;/p&gt;
+&lt;p&gt;Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean rhoncus, nulla ut mattis tempor, lorem arcu malesuada purus, sit amet pretium diam ligula at ante. Suspendisse potenti. Aliquam erat volutpat. Donec finibus, lectus et scelerisque euismod, est orci fermentum risus, a ullamcorper nisi tellus pellentesque eros. Maecenas vitae dui fringilla, porttitor ipsum eget, blandit felis. Nunc a eleifend velit, posuere vulputate dolor. Nam semper porttitor laoreet. Nunc sodales eget nisl eget lobortis.&lt;/p&gt;
 &lt;p&gt;Maecenas ligula mi, aliquet eu rhoncus ut, consectetur in nulla. Etiam sed venenatis sapien. Aenean ullamcorper, turpis vitae interdum malesuada, turpis leo interdum nisi, a placerat sem dui at justo. Aliquam a lobortis orci. Etiam eget vestibulum turpis, ac pulvinar nunc. Morbi id risus ante. Nulla rhoncus feugiat odio, ac accumsan ante scelerisque ut. Phasellus porttitor turpis vel enim dignissim auctor.&lt;/p&gt;
 &lt;p&gt;Donec ut rutrum nisl. Donec facilisis condimentum neque sit amet viverra. Donec nec tellus vitae dui bibendum tristique sed ac ante. Quisque ullamcorper nibh ipsum, vitae feugiat ex sagittis sed. Nullam pharetra massa lorem. Aliquam vitae ex vel massa lobortis elementum. In lorem elit, hendrerit eu scelerisque eu, dignissim eget est. Donec pharetra eget eros vitae fermentum. Suspendisse potenti.&lt;/p&gt;</section_html>
 	</item></sections_o>
@@ -42,9 +34,13 @@
 	<date_dt>2016-06-14T04:00:00.000Z</date_dt>
 	<createdDate>2017-3-2T20:41:3.000Z</createdDate>
 	<createdDate_dt>2017-3-2T20:41:3.000Z</createdDate_dt>
-	<lastModifiedDate>2017-3-14T23:52:40.000Z</lastModifiedDate>
-	<lastModifiedDate_dt>2017-3-14T23:52:40.000Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-06-21T08:43:42.017Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T08:43:42.017Z</lastModifiedDate_dt>
 	<featured_b>false</featured_b>
 	<summary_t>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean rhoncus, nulla ut mattis tempor, lorem arcu malesuada purus, sit amet pretium diam ligula at ante. Suspendisse potenti.</summary_t>
 	<image_s>/static-assets/images/coffee-pic.jpg</image_s>
+	<disabled>false</disabled>
+	<header_o item-list="true"/>
+	<left-rail_o item-list="true"/>
+	<date_dt_tz>EST5EDT</date_dt_tz>
 </page>
