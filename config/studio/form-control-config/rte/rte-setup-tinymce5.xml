@@ -44,9 +44,13 @@
         <toolbarItems1>
             formatselect | bold italic strikethrough forecolor backcolor | link | alignleft aligncenter alignright alignjustify | numlist bullist outdent indent | removeformat
         </toolbarItems1>
-        <toolbarItems2><!-- my_button --></toolbarItems2>
+        <toolbarItems2>embed_tweet</toolbarItems2>
         <toolbarItems3></toolbarItems3>
         <toolbarItems4></toolbarItems4>
+        
+        <external_plugins>
+            <embed_tweet><![CDATA[/studio/api/2/plugin/file?siteId={site}&type=tinymce&name=embed_tweet&filename=plugin.min.js]]></embed_tweet>
+        </external_plugins>
 
         <!--
         You may create a TinyMCE plugins and serve them from your site via site plugins. For example, to add
